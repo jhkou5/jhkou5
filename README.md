@@ -1,7 +1,6 @@
 <div align=center>
- Welcome 👋
   
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&text=Hello%20~&fontAlign=70&)
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=200&text=Hello%20~&fontAlign=70&)
 
 ### Tools
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
