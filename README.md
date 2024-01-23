@@ -10,6 +10,7 @@
 ![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ### SNS
 ![js](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![js](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![js](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)<br><br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhkou5)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jhkou5)](https://solved.ac/jhkou5)<br/>
